@@ -1,0 +1,17 @@
+{
+    "name": "dframe/http",
+    "description": "PSR-7: HTTP message interfaces",
+    "type": "library",
+    "require": {
+        "dframe/dframe": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sławomir Kaleta",
+            "email": "slaszka@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
